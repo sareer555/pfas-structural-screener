@@ -1,0 +1,5 @@
+streamlit>=1.60
+rdkit>=2024.3.1
+pandas>=2.0
+requests>=2.31
+pillow>=10.0
