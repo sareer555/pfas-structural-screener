@@ -35,7 +35,7 @@ from typing import Literal
 import requests
 from rdkit import Chem
 
-PUBCHEM_BASE = "https://pubchem.ncbi.gov/rest/pug"
+PUBCHEM_BASE = "https://pubchem.ncbi.nlm.nih.gov/rest/pug"
 
 IdentifierType = Literal["name", "cas", "smiles"]
 
